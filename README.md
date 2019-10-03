@@ -1,2 +1,1 @@
-# Visualização
-Alguns exemplos de visualização de dados.
+![](https://github.com/rafarolfsen/Visualizacao/blob/master/Capture.PNG)
